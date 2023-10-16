@@ -1,0 +1,38 @@
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Client.exe
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Client.pdb
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Newtonsoft.Json.Bson.dll
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Newtonsoft.Json.dll
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Server.exe
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Server.pdb
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Newtonsoft.Json.xml
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Newtonsoft.Json.Bson.pdb
+/Users/siroj/RiderProjects/Server/Client/bin/Debug/Newtonsoft.Json.Bson.xml
+/Users/siroj/RiderProjects/Server/Client/obj/Debug/Client.csproj.AssemblyReference.cache
+/Users/siroj/RiderProjects/Server/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/siroj/RiderProjects/Server/Client/obj/Debug/Client.csproj.CopyComplete
+/Users/siroj/RiderProjects/Server/Client/obj/Debug/Client.exe
+/Users/siroj/RiderProjects/Server/Client/obj/Debug/Client.pdb
+/Users/siroj/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/bin/Debug/Client.exe
+/Users/siroj/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/bin/Debug/Client.pdb
+/Users/siroj/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/obj/Debug/Client.csproj.AssemblyReference.cache
+/Users/siroj/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/siroj/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/obj/Debug/Client.exe
+/Users/siroj/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/obj/Debug/Client.pdb
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/bin/Debug/Client.exe
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/bin/Debug/Client.pdb
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/obj/Debug/Client.csproj.AssemblyReference.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/obj/Debug/Client.exe
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCP/Client/obj/Debug/Client.pdb
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPSercerClient/Client/bin/Debug/Client.exe
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPSercerClient/Client/bin/Debug/Client.pdb
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPSercerClient/Client/obj/Debug/Client.csproj.AssemblyReference.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPSercerClient/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPSercerClient/Client/obj/Debug/Client.exe
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPSercerClient/Client/obj/Debug/Client.pdb
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPServerClient/Client/bin/Debug/Client.exe
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPServerClient/Client/bin/Debug/Client.pdb
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPServerClient/Client/obj/Debug/Client.csproj.AssemblyReference.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPServerClient/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPServerClient/Client/obj/Debug/Client.exe
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 1/TCPServerClient/Client/obj/Debug/Client.pdb
