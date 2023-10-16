@@ -1,0 +1,39 @@
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/ClientA
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/ClientA.deps.json
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/ClientA.runtimeconfig.json
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/ClientA.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/ClientA.pdb
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/Microsoft.Extensions.Features.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/System.IO.Pipelines.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/System.Text.Encodings.Web.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/System.Text.Json.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.csproj.AssemblyReference.cache
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.AssemblyInfoInputs.cache
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.AssemblyInfo.cs
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.csproj.CoreCompileInputs.cache
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.csproj.CopyComplete
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/refint/ClientA.dll
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.pdb
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.genruntimeconfig.cache
+/Users/siroj/RiderProjects/UDPClientClient/ClientA/obj/Debug/net7.0/ref/ClientA.dll
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/bin/Debug/net7.0/ClientA
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/bin/Debug/net7.0/ClientA.dll
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/bin/Debug/net7.0/ClientA.pdb
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.csproj.AssemblyReference.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.AssemblyInfoInputs.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.AssemblyInfo.cs
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.csproj.CoreCompileInputs.cache
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.dll
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/obj/Debug/net7.0/refint/ClientA.dll
+/Users/siroj/Prog22/Datakommunikation och säkerhet/Uppgift 2/UDPClientClient/ClientA/obj/Debug/net7.0/ClientA.pdb
